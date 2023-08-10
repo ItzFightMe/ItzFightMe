@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello There! 👋<br><br>I am a System Administrator or Linux Administrator.<br>Feel Free to Ask! Just DM me on Discord FightMe#4278
+Hello There! 👋<br><br>I am a System Administrator or Linux System Administrator.<br>Feel Free to Ask! Just DM me on Discord FightMe#4278
 
 
 # 💻 Tech Stack:
